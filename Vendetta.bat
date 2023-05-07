@@ -1,7 +1,7 @@
 @echo off
 color 4
 
-title MooN
+title VENDETTA
 
 :greeting
 cls
